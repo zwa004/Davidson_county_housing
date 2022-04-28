@@ -1,3 +1,5 @@
-# Working draft documentation for the project
-## worked on EDA while building an ERD with quickdatabasediagrams.com
-## trying to work this page out.
+<<<<<<< HEAD
+
+=======
+# Davidson County Housing
+>>>>>>> 4d3d1ffc5a65b1e82a7c969511f6f73fcfa81d0b
