@@ -1,2 +1,2 @@
-# Group_dummy_repo
-Sevda modified this readme.
+# Working draft documentation for the project
+# worked on EDA while building an ERD with quickdatabasediagrams.com
