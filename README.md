@@ -22,4 +22,8 @@
   - Draft machine learning module is connected to the provisional database
   - 
 ## **DASHBOARD**
-N/A
+
+
+## **DATABASE**
+- Explaratory Data Analysis to be complete
+- An ERD logical modal is present
