@@ -3,9 +3,9 @@
 
 ## **PRESENTATION**
 - *SELECTED TOPIC*
-- REASON FOR SELECTED TOPIC
-- DESCRIPTION OF THE SOURCE DATA
-- QUESTIONS WE HOPE TO ANSWER WITH THE DATA
+- *REASON FOR SELECTED TOPIC*
+- *DESCRIPTION OF THE SOURCE DATA*
+- *QUESTIONS WE HOPE TO ANSWER WITH THE DATA*
 [^]: Note: the content does not yet need to be in the form of a presentation; text in the README.md works as well.
 
 Tennessee is home to a variety of housing options, single family, multi-family, townhouses, etc.  We will analyze the trends in housing types and prices amongst all counties within Tennessee.  We are instereed in this area due to the large volume of home sales in recent years as Nashville has become home to more and more transplants and not only from within the United States.  We found the effect of this increase on home prices and types to be an area for further study.
@@ -13,17 +13,20 @@ Tennessee is home to a variety of housing options, single family, multi-family, 
 We will utilize information derived from from Redfin and Zillow, well known real estate websites, and utilize their information via csv or API.  The infomration provided shows housing prices, types and county.  Redfin provides a csv file for all counties within the continental United States.  This contains beginning and end dates of the sample, as well as, county location and home type.  A sample is below.
 <img width="1178" alt="Screen Shot 2022-04-30 at 7 35 08 AM" src="https://user-images.githubusercontent.com/91889241/166105929-a2a1df2e-ebdf-4483-9374-98a4a1965b68.png">
 
+Zillow provides an API that we can use to call specifically what we need to help perform our research.  After which, we can join the two datasets to create a more robust set of data to analyze.
 
-Zillow provides an API that we can use to call specifically what we need to help perform our research.  
+By conducting this data analysis, we should be able to determine: 1. the most common type of housing in Tennessee; 2. the most expensive type; 3. the least expensive type; 4. predictions of the future pricing of each type of house.
 
 
 ## **GITHUB**
-- INCLUDES A README.md with:
-  - Description of the communication protocols
-- INDIVIDUAL BRANCHES
-  - At least one branch for each team member
-  - Each team member has at least four commits from the duration of the first segment
+- *INCLUDES A README.md with:*
+  - *Description of the communication protocols*
+- *INDIVIDUAL BRANCHES*
+  - *At least one branch for each team member*
+  - *Each team member has at least four commits from the duration of the first segment*
 [^]: Note: The descritpions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless otherwise noted.
+
+Our communication, based on the work/life balance of our team members, will primarily be carried out by group chat in Slack.  Within Slack, we will highlight tasks and each member will be assigned to complete.  Our motto "no person is an island" is to ensure we don't intend anyone to complete the assigned task when help is needed.  We will utilize a due date for all project items and support one another.
 
 ## **MACHINE LEARNING MODEL**
 - TEAM MEMBERS PRESENT A PROVISIONAL MACHINE LEARNING MODEL THAT STANDS IN FOR THE FINAL MACHINE LEARNING MODEL AND ACCOMPLISHES THE FOLLOWING:
